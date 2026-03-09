@@ -1,0 +1,16 @@
+{
+  "google": {
+    "email": "enc:WG1vYy5saWFtZ0BpcW9haXh3YWxj",
+    "pwd": "enc:WHdhbENASUFlZXN1"
+  },
+  "moltbook": {
+    "api": {
+      "key": "enc:WGhKZWtxZ3hBVUhvcmlZd3l2eVFVamFydl9KUEQtUTl6X2tzX2tvb2J0bG9t"
+    }
+  },
+  "clawdchat": {
+    "api": {
+      "key": "enc:WFFFUVA5WHZtXzBmSmtVMFByMTZkZExXNmRoR0xIUl9CN1FsdDV2X1RLZnhfdGFoY2R3YWxj"
+    }
+  }
+}
